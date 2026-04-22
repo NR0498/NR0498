@@ -15,46 +15,16 @@
 I’m Nayan Raj, a developer interested in building things that feel thoughtful, useful, and technically ambitious.
 
 My work currently sits around:
-- Python-based development
+- Python based Development
 - embedded and systems-level engineering
+- Making Fun IOT projects for daily use
 - machine learning and LLM exploration
+- Image processing pipeline specific for handwritten images
 - practical projects with real-world constraints
 
-I like projects that combine code, reasoning, and engineering discipline rather than just looking impressive on the surface.
 
 ---
 
-## Current Focus
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Systems</h3>
-      <p>Building a Linux-based operating system for CubeSats and learning how software behaves in constrained environments.</p>
-    </td>
-    <td width="33%">
-      <h3>AI / ML</h3>
-      <p>Exploring machine learning, LLMs, and quantitative analysis with a focus on understanding, not just using tools.</p>
-    </td>
-    <td width="33%">
-      <h3>Development</h3>
-      <p>Using Python, React, and modern engineering workflows to turn ideas into working systems.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Featured Projects
-
-### CubeSat OS
-A Linux-based operating system project built around the challenges of constrained hardware, reliability, and systems thinking.
-
-### AQUADOC
-A project shaped around solving a practical problem with structured software and a clear engineering approach.
-
-### FlightDemand
-A problem-solving focused project involving logic, analysis, and applied development.
 
 ---
 
@@ -71,25 +41,9 @@ A problem-solving focused project involving logic, analysis, and applied develop
 
 ---
 
-## What I Like Building
-
-- systems that solve real problems
-- projects that mix software and hardware
-- tools that are simple on the surface but thoughtful underneath
-- things that teach me how computers work more deeply
-
----
-
-## 2026 Goals
-
-- make meaningful progress on the CubeSat OS
-- deepen my understanding of ML and LLM systems
-- keep building a portfolio that feels original and honest
-- ship more projects with clear impact
-
----
 
 ## Connect
+Feel free in connecting with me in order to learn more about what i love to make,  i can learn from others. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nayan-raj-627098308" target="_blank">
